@@ -1,9 +1,11 @@
 => InfoMe_ChatBot
+
       Submission for International Conclave On GEN AI AND FUTURE OF EDUCATION
 
 #Requirements Nedded
 
 -> pip install openai
+
 -> pip install gradio
 
 This is a simple ChatBot for College Enquiry  Details,which can be easily interacted by any common users.
